@@ -1,7 +1,7 @@
 # Allresources
 <p>All my resources in one place
 <p><b> THE ROADMAP TO EVERYTHING: https://roadmap.sh/</b>
-<p><b>WEB DEVELOPMENT</b>
+<p><b><h2>WEB DEVELOPMENT</h1></b>
 <br>
 1. Angela YU course Udemy   https://mega.nz/folder/3WhSkBjJ#YSDBnDegckd9-xSQ04W0qA/folder/jT5kmRCB
 <br>
