@@ -33,4 +33,4 @@
 &nbsp &nbsp &nbsp iii. Eloquent Javascript | By Marijn Haverbake<br>
 &nbsp &nbsp &nbsp iv. You Don’t Know JS | By Kyle Simpson<br>
 &nbsp &nbsp &nbsp v. Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5 | By Robin Nixon<br>
-14. Roadmap: ![image](https://user-images.githubusercontent.com/95439390/195438543-f617d3c5-d7c2-4f8f-8c4f-8c5a9bf469d8.png) (Open in a new tab)
+14. Roadmap: (https://user-images.githubusercontent.com/95439390/195438543-f617d3c5-d7c2-4f8f-8c4f-8c5a9bf469d8.png) (Open in a new tab)
